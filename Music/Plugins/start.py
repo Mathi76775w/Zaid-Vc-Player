@@ -73,7 +73,7 @@ Mᴀᴅᴇ Wɪᴛʜ 🖤 Bʏ [𝗩𝗶𝗷𝗮𝘆](t.me/Attitude_king_vj) ...
 @Client.on_message(commandpro(["/start", "/alive"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/dd9ca2b2122dd68ffab0e.png",
+        photo=f"https://telegra.ph/file/6882544289d57512d143d.jpg",
         caption=f"""Thanks For Adding Me To Ur Chat, For Any Query U Can Join Our Support Groups 🔥♥️""",
         reply_markup=InlineKeyboardMarkup(
             [
